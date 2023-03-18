@@ -1,6 +1,6 @@
 # Hogwarts Legacy Save Backup
 
-This script backs up all Elden Ring saves every 30 minutes while the game is running. Each backup is saved to a *backup-YYYY_MM_DD__HH_MM.zip* file in your backups folder.
+This script backs up all Hogwarts Legacy saves every 30 minutes while the game is running. Each backup is saved to a *backup-YYYY_MM_DD__HH_MM.zip* file in your backups folder.
 
 Hogwarts Legacy saves all character backups to *%LOCALAPPDATA%\Hogwarts Legacy\Saved\SaveGames* folder. This script simply zips the folder on a timer.
 
